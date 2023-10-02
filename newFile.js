@@ -21,9 +21,9 @@ module.exports = {
         "blue-wash": "rgba(117, 190, 239, 0.20)",
         "button-stroke": "#546A7A",
         "searchbar-fill": "#212327",
-        "red-error": "#8B141A",
         "card-fill": "#16181C",
         "green-success": "#00BE74",
+        "red-error": "#8B141A",
       },
 
       fontFamily: {
@@ -57,9 +57,9 @@ module.exports = {
         56: "56px",
         33: "33px",
         19: "19px",
-        360: "360px",
         319: "319px",
         390: "390px",
+        360: "360px",
       },
       spacing: {
         15: "15px",
