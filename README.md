@@ -13,6 +13,10 @@ Using the Tailwind CSS components from your previous task, create the foundation
 - **Compose Tweet:** Layout a space for drafting tweets, indicating a 280 character limit and potential error states.
 - **User Profile:** Create a comprehensive user profile layout, featuring placeholders for user details and tweets.
 
+Link added here
+https://100x-engineers.github.io/layouts-assignment-hardikgolchha89/src/login/index.html
+
+
 ## Resources
 
 Figma Design - https://www.figma.com/file/w7wN1934wsRWZAMhPU0IEX/100x-microblogging?type=design&node-id=1031-6376&mode=dev
@@ -22,3 +26,6 @@ Figma Design - https://www.figma.com/file/w7wN1934wsRWZAMhPU0IEX/100x-microblogg
 Designs will be reviewed for visual appeal, layout sensibility, and responsive design principles.
 
 ---
+
+
+
